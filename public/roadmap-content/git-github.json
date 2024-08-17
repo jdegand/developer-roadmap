@@ -119,8 +119,19 @@
   },
   "2_z3R7seCvQVj-Na4H1SV": {
     "title": "Committing Changes",
-    "description": "",
-    "links": []
+    "description": "Committing changes in Git is a crucial part of version control, allowing you to save your progress and record a snapshot of your project's current state\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "How git commit works",
+        "url": "https://github.com/git-guides/git-commit",
+        "type": "article"
+      },
+      {
+        "title": "Git commit",
+        "url": "https://www.atlassian.com/git/tutorials/saving-changes/git-commit",
+        "type": "article"
+      }
+    ]
   },
   "oz2oRAhaEQb0Fm3aRJQG8": {
     "title": ".gitignore",
@@ -155,8 +166,19 @@
   },
   "OegitQ5Ngjvd3ZfMpfrkM": {
     "title": "Creating Branch",
-    "description": "",
-    "links": []
+    "description": "Creating a branch in Git is a fundamental part of working with version control, allowing you to work on different features or fixes without affecting the main codebase. You can create branches either through the terminal or github interface\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "Git branch documentation",
+        "url": "https://git-scm.com/docs/git-branch",
+        "type": "article"
+      },
+      {
+        "title": "Git branch",
+        "url": "https://www.atlassian.com/git/tutorials/using-branches",
+        "type": "article"
+      }
+    ]
   },
   "_dPOVUbxApx0pfKPH8fgr": {
     "title": "Renaming Branch",
@@ -165,8 +187,19 @@
   },
   "1uDenoQ6zu7CT69FR2iQB": {
     "title": "Deleting Branch",
-    "description": "",
-    "links": []
+    "description": "Deleting a Git branch means removing a line of development from your Git repository. A branch in Git is essentially a pointer to a specific commit, representing an independent line of development. When you delete a branch, you’re removing this pointer, making that line of development no longer accessible through the branch name.\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "Creating and deleting branches within your repository",
+        "url": "https://docs.github.com/articles/creating-and-deleting-branches-within-your-repository",
+        "type": "article"
+      },
+      {
+        "title": "How to Delete a Git Branch Both Locally and Remotely",
+        "url": "https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/",
+        "type": "article"
+      }
+    ]
   },
   "PtRo-wGiNAagZ6CykfvMr": {
     "title": "Checkout Branch",
@@ -201,8 +234,14 @@
   },
   "i7fIIHcBEk473te8bniJ5": {
     "title": "Creating Account",
-    "description": "",
-    "links": []
+    "description": "To get started with GitHub, you'll need to create a free personal account on [GitHub.com](http://GitHub.com) and verify your email address. Every person who uses [GitHub.com](http://GitHub.com) signs in to a personal account. Your personal account is your identity on [GitHub.com](http://GitHub.com) and has a username and profile.\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "Creating an account on GitHub",
+        "url": "https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github",
+        "type": "article"
+      }
+    ]
   },
   "qZFtRABvlBbVvsy6T00J2": {
     "title": "GitHub Interface",
@@ -216,8 +255,14 @@
   },
   "c_FO6xMixrrMo6iisfsvl": {
     "title": "Creating Repositories",
-    "description": "",
-    "links": []
+    "description": "Creating a Git repository means setting up a system to track changes in your project's files over time. This is crucial for version control, allowing you to manage, review, and collaborate on code efficiently.\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "Quickstart for repositories - GitHub Docs",
+        "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories",
+        "type": "article"
+      }
+    ]
   },
   "KbVvFVQ4k77R2_ddsc7WT": {
     "title": "Profile Readme",
@@ -272,8 +317,29 @@
   },
   "l1Wf7Pe_ah8ycCgslfSK4": {
     "title": "Forking vs Cloning",
-    "description": "",
-    "links": []
+    "description": "Forking and cloning are two fundamental concepts in Git, particularly when working with repositories hosted on platforms like GitHub, GitLab, or Bitbucket. While both actions involve copying a repository, they serve different purposes and have distinct workflows. Cloning a repository means creating a local copy of a repository that exists on a remote server (e.g., GitHub) on your local machine. This allows you to work on the project locally, make changes, and then push those changes back to the remote repository if you have the necessary permissions. Forking a repository is specific to platforms like GitHub, GitLab, and Bitbucket. When you fork a repository, you create a copy of someone else’s repository in your own account. This forked repository is independent of the original and can be modified without affecting the original project.\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "The difference between forking and cloning a repository",
+        "url": "https://github.com/orgs/community/discussions/35849",
+        "type": "article"
+      },
+      {
+        "title": "Git fork vs. clone: What's the difference?",
+        "url": "https://www.theserverside.com/answer/Git-fork-vs-clone-Whats-the-difference",
+        "type": "article"
+      },
+      {
+        "title": "Git Fork vs. Git Clone: What's the Difference?",
+        "url": "https://youtu.be/6YQxkxw8nhE?si=mJNvcaB4lQccsU57",
+        "type": "video"
+      },
+      {
+        "title": "GitHub Forking vs Cloning: Key Differences Explained",
+        "url": "https://youtu.be/yQSjqYs2UBE?si=3BKYtWmkLIMWvA6G",
+        "type": "video"
+      }
+    ]
   },
   "crdllx5cH_seIpgVPvHg_": {
     "title": "Issues",
@@ -374,8 +440,34 @@
   },
   "agtPWS8j6i6wQPk10cy8E": {
     "title": "Fast-Forward vs Non-FF",
-    "description": "",
-    "links": []
+    "description": "In Git, when you merge branches, there are two primary types of merges: Fast-Forward and Non-Fast-Forward (No-FF). These terms describe how Git handles the history and pointers when merging branches. Understanding the difference between these two types of merges is crucial for managing your project's commit history effectively.\n\nA Fast-Forward merge occurs when the branch you are merging into (often main or master) has not diverged from the branch you are merging (often a feature branch). In other words, the commit history of the target branch is a strict subset of the branch being merged. In a Fast-Forward merge, Git simply moves the pointer of the target branch forward to the latest commit on the branch being merged. No new merge commit is created; the history is linear.\n\nA Non-Fast-Forward (No-FF) merge happens when the target branch has diverged from the branch being merged or when you explicitly choose to create a merge commit. In this case, Git creates a new commit that represents the merging of the two branches. Git creates a new merge commit that has two parent commits: one from the target branch and one from the branch being merged. The merge commit is a snapshot of the merged work, preserving the history of both branches.\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "Git Fast-Forward VS Non-Fast-Forward",
+        "url": "https://leimao.github.io/blog/Git-Fast-Forward-VS-Non-Fast-Forward/",
+        "type": "article"
+      },
+      {
+        "title": "Git Merge: To Squash Or Fast-Forward?",
+        "url": "https://dev.to/trpricesoftware/git-merge-to-squash-or-fast-forward-3791",
+        "type": "article"
+      },
+      {
+        "title": "Difference between a git fast forward and no fast forward",
+        "url": "https://gist.github.com/moraisaugusto/1fa02c49b6d9833fcdf665505595ac2e",
+        "type": "article"
+      },
+      {
+        "title": "GIT Fast Forward Visualized",
+        "url": "https://youtu.be/DN1fNYoJgDw?si=_TZKACj4SCOuESGm",
+        "type": "video"
+      },
+      {
+        "title": "git merge no fast forward",
+        "url": "https://youtu.be/X_8atqzsO8U?si=e9hMQg_aWLRMWf4O",
+        "type": "video"
+      }
+    ]
   },
   "9Dt4Gyiiq5jteWSKxsRMK": {
     "title": "Handling Conflicts",
@@ -472,8 +564,29 @@
   },
   "pJ-najh7dXhhYA_0bDiR5": {
     "title": "Contribution Guidelines",
-    "description": "",
-    "links": []
+    "description": "Contribution guidelines are essential for collaborative projects on GitHub as they help streamline collaboration, set expectations for contributions, and maintain the project's quality and consistency.\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "Setting guidelines for respository contributors",
+        "url": "https://docs.github.com/articles/setting-guidelines-for-repository-contributors",
+        "type": "article"
+      },
+      {
+        "title": "Contributing Guidelines",
+        "url": "https://github.blog/news-insights/contributing-guidelines/",
+        "type": "article"
+      },
+      {
+        "title": "Contributing Guides: A Template",
+        "url": "https://github.com/nayafia/contributing-template",
+        "type": "article"
+      },
+      {
+        "title": "How to Build a CONTRIBUTING.md",
+        "url": "https://mozillascience.github.io/working-open-workshop/contributing/",
+        "type": "article"
+      }
+    ]
   },
   "D2WIExwfSnkAPIa5O-Hp5": {
     "title": "Documentation",
@@ -658,8 +771,29 @@
   },
   "HMEfUFNu_Wp_Pac7VWHr-": {
     "title": "git rebase",
-    "description": "",
-    "links": []
+    "description": "Git rebase is a powerful command in Git that allows you to integrate changes from one branch into another. Unlike git merge, which creates a new commit to combine the histories of two branches, git rebase moves or applies commits from one branch on top of another, effectively re-writing the commit history.\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "Git - git-rebase Documentation",
+        "url": "https://git-scm.com/docs/git-rebase",
+        "type": "article"
+      },
+      {
+        "title": "git rebase ",
+        "url": "https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase",
+        "type": "article"
+      },
+      {
+        "title": "git rebase - Why, When & How to fix conflicts",
+        "url": "https://youtu.be/DkWDHzmMvyg?si=59jauQgkL-sMewzo",
+        "type": "video"
+      },
+      {
+        "title": "Git Rebase --interactive: EXPLAINED",
+        "url": "https://youtu.be/H7RFt0Pxxp8?si=gLhfkVW_PmWHBQSs",
+        "type": "video"
+      }
+    ]
   },
   "BKVA6Q7DXemAYjyQOA0nh": {
     "title": "git filter-branch",
@@ -896,8 +1030,29 @@
   },
   "hru0sL1-D4bJSQI1efEyU": {
     "title": "Git Reflog",
-    "description": "",
-    "links": []
+    "description": "Git reflog is a powerful tool in Git that keeps a record of all the changes made to the branches and commits in your repository, including actions that are not part of the regular commit history, such as resetting branches or checking out commits. It's particularly useful for recovering lost commits or understanding the history of changes in your repository, even if those changes are not reflected in the normal commit history.Reflog stands for \"reference log.\" It records when the tip of branches or other references (like HEAD) is updated in your repository.\n\nLearn more from the following resources:",
+    "links": [
+      {
+        "title": "Git - git-reflog Documentation",
+        "url": "https://git-scm.com/docs/git-reflog",
+        "type": "article"
+      },
+      {
+        "title": "What is the Git Reflog? | Learn Version Control with Git",
+        "url": "https://www.git-tower.com/learn/git/faq/what-is-git-reflog",
+        "type": "article"
+      },
+      {
+        "title": "Learn Git Essentials 12: Git Reflog",
+        "url": "https://youtu.be/RVu8lpS7JFY?si=eNGBpsYfHtlyPClj",
+        "type": "video"
+      },
+      {
+        "title": "Git Reflog Command. Get all log details of the reference using git reflog show command",
+        "url": "https://youtu.be/I4f4pddD16g?si=0Ny7xOJgiPgdfuh6",
+        "type": "video"
+      }
+    ]
   },
   "ExXuwTQSI_lg4SRGW3Iu1": {
     "title": "Git Bisect",
