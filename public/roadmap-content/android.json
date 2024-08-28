@@ -303,13 +303,30 @@
   },
   "EzLjX4iRT7AxkAOsJYnSU": {
     "title": "ListView",
-    "description": "",
-    "links": []
+    "description": "Displays a vertically-scrollable collection of views, where each view is positioned immediatelybelow the previous view in the list.\n\nFor a more modern, flexible, and performant approach to displaying lists, use `RecyclerView`.\n\nVisit the following resources to learn more:",
+    "links": [
+      {
+        "title": "Android developers: ListView",
+        "url": "https://developer.android.com/reference/android/widget/ListView",
+        "type": "article"
+      }
+    ]
   },
   "amTxz7mS98lkhOrNMJXG_": {
     "title": "Drawer",
-    "description": "",
-    "links": []
+    "description": "The **Navigation Drawer** in Android is a sliding menu from the left that simplifies navigation between important app links. It opens by sliding or via an icon in the `ActionBar`. It’s an overlay panel that replaces a screen dedicated to displaying options.\n\nVisit the following resources to learn more:",
+    "links": [
+      {
+        "title": "Android developers: DrawerLayout",
+        "url": "https://developer.android.com/reference/androidx/drawerlayout/widget/DrawerLayout",
+        "type": "article"
+      },
+      {
+        "title": "Navigate Drawer Tutorial",
+        "url": "https://www.digitalocean.com/community/tutorials/android-navigation-drawer-example-tutorial",
+        "type": "article"
+      }
+    ]
   },
   "pEBpXv3Jf1AzBNHlvVrG8": {
     "title": "Tabs",
