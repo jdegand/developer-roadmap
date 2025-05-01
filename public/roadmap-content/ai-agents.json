@@ -258,7 +258,7 @@
   },
   "M3U6RfIqaiut2nuOibY8W": {
     "title": "Short Term  Memory",
-    "description": "Short-term memory lets an AI agent hold recent facts while it works on a task. It keeps chat history, sensor readings, or current goals for a short time, often only for the length of one session. With this memory the agent can follow a user’s last request, track the next step in a plan, or keep variables needed for quick reasoning. Once the task ends or enough time passes, most of the stored items are cleared or moved to long-term memory. Because the data is small and brief, short-term memory is fast to read and write, which helps the agent react without delay. Common ways to build it include using a sliding window over recent messages, a small key-value store, or hidden states in a neural network. Good design of short-term memory prevents the agent from forgetting vital details too soon while avoiding overload with useless data.",
+    "description": "Short term memory are the facts which are passed as a part of the prompt to the LLM e.g. there might be a prompt like below:\n\n    Users Profile:\n    - name: {name}\n    - age: {age}\n    - expertise: {expertise}\n    \n    User is currently learning about {current_topic}. User has some goals in mind which are:\n    - {goal_1}\n    - {goal_2}\n    - {goal_3}\n    \n    Help the user achieve the goals.\n    \n\nNotice how we injected the user's profile, current topic and goals in the prompt. These are all short term memories.",
     "links": []
   },
   "Ue633fz6Xu2wa2-KOAtdP": {
@@ -268,7 +268,7 @@
   },
   "EfCCNqLMJpWKKtamUa5gK": {
     "title": "Episodic vs Semantic Memory",
-    "description": "Agent memory often has two parts. Episodic memory stores single events. It keeps data about what happened, when it happened, and who or what was involved. This lets the agent recall a past step-by-step experience, like a diary entry. Semantic memory stores facts that stay the same across time. It holds rules, concepts, and meanings, like the statement “Paris is the capital of France.” The key difference is time and context: episodic memory is tied to a specific moment, while semantic memory is timeless knowledge. Together they help the agent both remember past actions and use general truths to plan new ones.",
+    "description": "Agent memory often has two parts. Episodic memory is relevant to the context of the current conversation and may be lost after the conversation ends. Semantic memory is relevant to the broader knowledge of the agent and is persistent.",
     "links": []
   },
   "wkS4yOJ3JdZQE_yBID8K7": {
