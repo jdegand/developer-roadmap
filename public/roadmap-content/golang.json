@@ -1,0 +1,862 @@
+{
+  "WwLLyHL5psm0GOI9bmOne": {
+    "title": "Introduction to Go",
+    "description": "",
+    "links": []
+  },
+  "4PrkkoZ5fY-oow0O-bVhu": {
+    "title": "Why use Go",
+    "description": "",
+    "links": []
+  },
+  "2rlmLn_yQQV-7DpX1qT98": {
+    "title": "History of Go",
+    "description": "",
+    "links": []
+  },
+  "J5mU0v491qrm-mr1W3Msd": {
+    "title": "Setting up the Environment",
+    "description": "",
+    "links": []
+  },
+  "PHHviBSqhYDSNuHBFbw3l": {
+    "title": "Hello World in Go",
+    "description": "",
+    "links": []
+  },
+  "_3_tFOpQisx6DSP4Yc2E2": {
+    "title": "`go` command",
+    "description": "",
+    "links": []
+  },
+  "BZKSsTgm28WV4nA74NYHO": {
+    "title": "Variables & Constants",
+    "description": "",
+    "links": []
+  },
+  "pJUkMcrUvcxuR_w89-eEq": {
+    "title": "var vs :=",
+    "description": "",
+    "links": []
+  },
+  "QWixUXjC8YG-i1gsKVY1v": {
+    "title": "Zero Values",
+    "description": "",
+    "links": []
+  },
+  "-M-qrXwVt7HfJv0CSRNGS": {
+    "title": "const and iota",
+    "description": "",
+    "links": []
+  },
+  "xUKsD2eTP9-RszHvKYp9Y": {
+    "title": "Scope and Shadowing",
+    "description": "",
+    "links": []
+  },
+  "0FJxELyk7_IiVHvZFFVm2": {
+    "title": "Data Types",
+    "description": "",
+    "links": []
+  },
+  "PRTou83_rD0u7p2elGG4s": {
+    "title": "Boolean",
+    "description": "",
+    "links": []
+  },
+  "EAqL8Up3J63AWCZnqQph0": {
+    "title": "Integers (Signed, Unsigned)",
+    "description": "",
+    "links": []
+  },
+  "EzaH378F3kOdQbczhVjhA": {
+    "title": "Floating Points",
+    "description": "",
+    "links": []
+  },
+  "Mn-M7kxOKEublJGitgjNA": {
+    "title": "Complex Numbers",
+    "description": "",
+    "links": []
+  },
+  "IAXI7OAAAG4fU6JvVNSZI": {
+    "title": "Runes",
+    "description": "",
+    "links": []
+  },
+  "nzPe6XVqhtOZFbea6f2Hg": {
+    "title": "Raw String Literals",
+    "description": "",
+    "links": []
+  },
+  "7h08RUNC_uAMI6vnGdcZ1": {
+    "title": "Interpreted String Literals",
+    "description": "",
+    "links": []
+  },
+  "2IFxz3sFqDvUvzWNVwlWC": {
+    "title": "Type Conversion",
+    "description": "",
+    "links": []
+  },
+  "ywiNCAAvpSVXTwWwguxSZ": {
+    "title": "Commands & Docs",
+    "description": "",
+    "links": []
+  },
+  "Eu8JV-_W-P_bCx_PglIW0": {
+    "title": "Arrays",
+    "description": "",
+    "links": []
+  },
+  "3aoMFQXIh3Qdo04isHwe_": {
+    "title": "Slices",
+    "description": "",
+    "links": []
+  },
+  "qUykEUH1-9Dzotc_ltV3g": {
+    "title": "Capacity and Growth",
+    "description": "",
+    "links": []
+  },
+  "PWrfmYnOJRlwgdFat91bC": {
+    "title": "make()",
+    "description": "",
+    "links": []
+  },
+  "j0zmfpaufr5TAZa_Bh8Vu": {
+    "title": "Slice to Array Conversion",
+    "description": "",
+    "links": []
+  },
+  "s1E4PQVVSlBeyNn7xBikW": {
+    "title": "Array to Slice Conversion",
+    "description": "",
+    "links": []
+  },
+  "ZxZpReGdPq8ziSlYmf2nj": {
+    "title": "Strings",
+    "description": "",
+    "links": []
+  },
+  "XupDuVRsM5VjdaNs7JaT5": {
+    "title": "Maps",
+    "description": "",
+    "links": []
+  },
+  "dMdOz2kUc8If3LcLZEfYf": {
+    "title": "Comma-Ok Idiom",
+    "description": "",
+    "links": []
+  },
+  "wRwt9JHZPmq8uapxMjn0a": {
+    "title": "Structs",
+    "description": "",
+    "links": []
+  },
+  "SW2uMlhfC-dnQakShs2km": {
+    "title": "Struct Tags & JSON",
+    "description": "",
+    "links": []
+  },
+  "XLj16RmCe4-nKHW52Ebhf": {
+    "title": "Embedding Structs",
+    "description": "",
+    "links": []
+  },
+  "C7wzT161ytHsCpO2zfmXo": {
+    "title": "Conditionals",
+    "description": "",
+    "links": []
+  },
+  "dC-1LotbW29C4zZJv6ak6": {
+    "title": "if",
+    "description": "",
+    "links": []
+  },
+  "2XaDvTJ5pyChgt1GFZF8W": {
+    "title": "if-else",
+    "description": "",
+    "links": []
+  },
+  "ZmPhiTrB8EK0LDdaJOhc8": {
+    "title": "switch",
+    "description": "",
+    "links": []
+  },
+  "orpxzKHFcf1BDQSefHl6O": {
+    "title": "Loops",
+    "description": "",
+    "links": []
+  },
+  "ijS-b400c9BldRO6PlrC1": {
+    "title": "for loop",
+    "description": "",
+    "links": []
+  },
+  "j0w6e8Pksh30PKDvXj3yk": {
+    "title": "for range",
+    "description": "",
+    "links": []
+  },
+  "Q6ic-AGG_gnXEOdmqom89": {
+    "title": "Iterating Maps",
+    "description": "",
+    "links": []
+  },
+  "PC-azlCZ6wDCn1_nRyhUn": {
+    "title": "Iterating Strings",
+    "description": "",
+    "links": []
+  },
+  "IWdAJ1BXqJv8EMYvFWRaH": {
+    "title": "break",
+    "description": "",
+    "links": []
+  },
+  "BRKryB5HawXyXeBWM4QqU": {
+    "title": "continue",
+    "description": "",
+    "links": []
+  },
+  "O29VoTfPiU8GZ_c16ZJIp": {
+    "title": "goto (discouraged)",
+    "description": "",
+    "links": []
+  },
+  "axhcEfCEoFkLey4AbA84A": {
+    "title": "Functions",
+    "description": "",
+    "links": []
+  },
+  "MBafBhpEV_7qgDNPOIBBs": {
+    "title": "Functions Basics",
+    "description": "",
+    "links": []
+  },
+  "MUJfa0jIL_S_b2ndNpVVw": {
+    "title": "Variadic Functions",
+    "description": "",
+    "links": []
+  },
+  "ai2s1bwiTcPzrXQTxFDwV": {
+    "title": "Multiple Return Values",
+    "description": "",
+    "links": []
+  },
+  "cEQ9NQX7ZkKLwz_hg9L_7": {
+    "title": "Anonymous Functions",
+    "description": "",
+    "links": []
+  },
+  "ZSiNvYDTW2RYyPttls5iz": {
+    "title": "Closures",
+    "description": "",
+    "links": []
+  },
+  "HIvwT8Dcr6B2NjOjy9hFv": {
+    "title": "Named Return Values",
+    "description": "",
+    "links": []
+  },
+  "z8-8nt-3GA7uN-cvOI-Qn": {
+    "title": "Call by Value",
+    "description": "",
+    "links": []
+  },
+  "naBjKGrTBzlpapXzLHfvG": {
+    "title": "Pointers",
+    "description": "",
+    "links": []
+  },
+  "P0fUxEbb3bVYg35VWyg8R": {
+    "title": "Pointers Basics",
+    "description": "",
+    "links": []
+  },
+  "NfYlEY8f_YPITT6Exp3Iw": {
+    "title": "Pointers with Structs ",
+    "description": "",
+    "links": []
+  },
+  "oAvCO3GOKktkbmPahkPlT": {
+    "title": "With Maps & Slices",
+    "description": "",
+    "links": []
+  },
+  "ItMgLOzaUCCdiTk221pAF": {
+    "title": "Memory Management",
+    "description": "",
+    "links": []
+  },
+  "GG0j6MNVudvITHEOXUxim": {
+    "title": "Garbage Collection",
+    "description": "",
+    "links": []
+  },
+  "jx1vln8hqRJqVZfJi6CST": {
+    "title": "Methods vs Functions",
+    "description": "",
+    "links": []
+  },
+  "6NKgb-OjGdT3QsMrDU05b": {
+    "title": "Pointer Receivers",
+    "description": "",
+    "links": []
+  },
+  "99a4irV044ybZN-boMgHv": {
+    "title": "Value Receivers",
+    "description": "",
+    "links": []
+  },
+  "hIRMnPyHRGh8xCU8BTS2n": {
+    "title": "Interfaces",
+    "description": "",
+    "links": []
+  },
+  "ueJ7ndK2SKniDVjN2aUlO": {
+    "title": "Empty Interfaces",
+    "description": "",
+    "links": []
+  },
+  "wK7GNTbOsMNs0N_1N4-dU": {
+    "title": "Embedding Interfaces",
+    "description": "",
+    "links": []
+  },
+  "4EJ4WnH2HA3ci2uoqmNex": {
+    "title": "Type Assertions",
+    "description": "",
+    "links": []
+  },
+  "6r9XbwlBtHmJrhviG2cTD": {
+    "title": "Type Switch",
+    "description": "",
+    "links": []
+  },
+  "nkONsPlFYCMqzWHTm_EPB": {
+    "title": "Interfaces Basics",
+    "description": "",
+    "links": []
+  },
+  "uEpTANOBHlFwCg5p44Lh0": {
+    "title": "Generics",
+    "description": "",
+    "links": []
+  },
+  "9EdDI0vJaEmz3XxXMrpX9": {
+    "title": "Why Generics?",
+    "description": "",
+    "links": []
+  },
+  "p7L4EUsjMnJlrbb-oDvlf": {
+    "title": "Generic Functions",
+    "description": "",
+    "links": []
+  },
+  "eWZzradMaH57H4mI7Qw6n": {
+    "title": "Generic Types / Interfaces",
+    "description": "",
+    "links": []
+  },
+  "8o6A2kGnupGYaaTwgsTDp": {
+    "title": "Type Constraints",
+    "description": "",
+    "links": []
+  },
+  "36gt0FmNDxuIIV47aqBeH": {
+    "title": "Type Inference",
+    "description": "",
+    "links": []
+  },
+  "7EKUfKx7_7lZOs3d84iyL": {
+    "title": "Error Handling Basics",
+    "description": "",
+    "links": []
+  },
+  "0mMP6QR0V-Zi25njD1TFT": {
+    "title": "`error` interface",
+    "description": "",
+    "links": []
+  },
+  "dHk6Y0zFqxtCuDiQcHQsi": {
+    "title": "errors.New",
+    "description": "",
+    "links": []
+  },
+  "LVaWjZfij6-z_uwkAc0MK": {
+    "title": "fmt.Errorf",
+    "description": "",
+    "links": []
+  },
+  "s2WlOMMKNXf6O2Qiqcm_m": {
+    "title": "Wrapping/Unwrapping Errors",
+    "description": "",
+    "links": []
+  },
+  "vjfqq1XVS25FVe9smtel0": {
+    "title": "Sentinel Errors",
+    "description": "",
+    "links": []
+  },
+  "2KyzUjcMiMgo_AvlPjYbx": {
+    "title": "`panic` and `recover`",
+    "description": "",
+    "links": []
+  },
+  "rR_BIgiSR63rVlO2Igzin": {
+    "title": "Stack Traces & Debugging",
+    "description": "",
+    "links": []
+  },
+  "kep_536v13aS1V9XwHKSr": {
+    "title": "Modules & Dependencies",
+    "description": "",
+    "links": []
+  },
+  "zWXJOXo8dRnuTvYlWOL6r": {
+    "title": "go mod init",
+    "description": "",
+    "links": []
+  },
+  "6rwVq1bMSHoGatEfm9hkp": {
+    "title": "go mod tidy",
+    "description": "",
+    "links": []
+  },
+  "jOiAk5coeDNVXP2QiwQis": {
+    "title": "go mod vendor",
+    "description": "",
+    "links": []
+  },
+  "AcYzrGFrwmeVYFEfhEiSZ": {
+    "title": "Packages",
+    "description": "",
+    "links": []
+  },
+  "dA8SMhCev1NWNM1Tsxu57": {
+    "title": "Package Import Rules",
+    "description": "",
+    "links": []
+  },
+  "eBv3i2cNA7vc01jLAbB8m": {
+    "title": "Using 3rd Party Packages",
+    "description": "",
+    "links": []
+  },
+  "CysLmwRqmQzOGAKM01AKF": {
+    "title": "Publishing Modules",
+    "description": "",
+    "links": []
+  },
+  "08QOxnF3rKEDekrkX7w1j": {
+    "title": "Goroutines",
+    "description": "",
+    "links": []
+  },
+  "EgXagvLpJkXUI2od5K1FD": {
+    "title": "Channels",
+    "description": "",
+    "links": []
+  },
+  "4_nvU_YOs9Psey5TZLQFb": {
+    "title": "Buffered vs Unbuffered",
+    "description": "",
+    "links": []
+  },
+  "RBr1uAdngIsvSpIdHHOyV": {
+    "title": "Select Statement",
+    "description": "",
+    "links": []
+  },
+  "z8ItWHAupaastLcXY3npY": {
+    "title": "Worker Pools",
+    "description": "",
+    "links": []
+  },
+  "nOI0juYhqJXNTiJBU4bKH": {
+    "title": "`sync` Package",
+    "description": "",
+    "links": []
+  },
+  "6ydgmac11Zu9Ithe0kKj9": {
+    "title": "Mutexes",
+    "description": "",
+    "links": []
+  },
+  "amqOwSgVFDymAsDIobwiK": {
+    "title": "WaitGroups",
+    "description": "",
+    "links": []
+  },
+  "vxB3aGreqWBrNhiu8hcPE": {
+    "title": "`context` Package",
+    "description": "",
+    "links": []
+  },
+  "p5u2tWRmRtyfBgKcSUHFU": {
+    "title": "Deadlines & Cancellations",
+    "description": "",
+    "links": []
+  },
+  "gChqUzY3SbPJH0H0jcoAp": {
+    "title": "Common Usecases",
+    "description": "",
+    "links": []
+  },
+  "2yKVKaCXrcv5X4o2d6oqm": {
+    "title": "Concurrency Patterns",
+    "description": "",
+    "links": []
+  },
+  "8BrnnM7HM-bijbUDgnW49": {
+    "title": "fan-in",
+    "description": "",
+    "links": []
+  },
+  "pN8EsuKUPDUKyskodu_sC": {
+    "title": "fan-out",
+    "description": "",
+    "links": []
+  },
+  "loozcCzPzkni7BOdcvt1S": {
+    "title": "pipeline",
+    "description": "",
+    "links": []
+  },
+  "GoV8yaQARJmO47e0_l_GY": {
+    "title": "Race Detection",
+    "description": "",
+    "links": []
+  },
+  "-Qy9DEWVYUNRHWiXXhIWU": {
+    "title": "Standard Library",
+    "description": "",
+    "links": []
+  },
+  "7SYEXD5r9WKEDfecQdO5d": {
+    "title": "I/O & File Handling",
+    "description": "",
+    "links": []
+  },
+  "-8E79Ns4q-uAgcxtghPzf": {
+    "title": "flag",
+    "description": "",
+    "links": []
+  },
+  "aK9EQO1JR9hYIMkS3mdai": {
+    "title": "time",
+    "description": "",
+    "links": []
+  },
+  "uB1fE15OprBcwN7p7ffJF": {
+    "title": "encoding/json",
+    "description": "",
+    "links": []
+  },
+  "9S1gkzBvt32uLy0IFZjrg": {
+    "title": "os",
+    "description": "",
+    "links": []
+  },
+  "Z8j6Zkg1LYEYcoRgs23Ms": {
+    "title": "bufio",
+    "description": "",
+    "links": []
+  },
+  "hFlbSSBMcJtjXNL8jAcbc": {
+    "title": "slog",
+    "description": "",
+    "links": []
+  },
+  "9K5ffACdKNPJiWPq4tUWD": {
+    "title": "regexp",
+    "description": "",
+    "links": []
+  },
+  "iIPk-jK1vBCG_rKI_MPiu": {
+    "title": "go:embed for embedding",
+    "description": "",
+    "links": []
+  },
+  "nZkLFmm2GENL81y5LB0c1": {
+    "title": "`testing` package basics",
+    "description": "",
+    "links": []
+  },
+  "6-mr65JzXbRzIukE7jzoZ": {
+    "title": "Table-driven Tests",
+    "description": "",
+    "links": []
+  },
+  "LjLbm4JEZ19howOkju7zQ": {
+    "title": "Mocks and Stubs",
+    "description": "",
+    "links": []
+  },
+  "Zt4FpqCEVlpMzclJeDiMs": {
+    "title": "`httptest`  for HTTP Tests",
+    "description": "",
+    "links": []
+  },
+  "t9xOuLBrAzEvv2-bOU2hF": {
+    "title": "Benchmarks",
+    "description": "",
+    "links": []
+  },
+  "27lhNAdKwRrc2S2ha3QNG": {
+    "title": "Coverage",
+    "description": "",
+    "links": []
+  },
+  "2fk1ewM42WnFlDejVETys": {
+    "title": "Building CLIs",
+    "description": "",
+    "links": []
+  },
+  "3frPZLeFXnHroY7_Uk5Dn": {
+    "title": "Cobra",
+    "description": "",
+    "links": []
+  },
+  "bmNLSk-XuK2EuLxPR1Sxh": {
+    "title": "urfave/cli",
+    "description": "",
+    "links": []
+  },
+  "x9hDkF73rmvbewrgRgyOv": {
+    "title": "bubbletea",
+    "description": "",
+    "links": []
+  },
+  "CwGw3CDVLqErQGTwjzhmL": {
+    "title": "Web Development",
+    "description": "",
+    "links": []
+  },
+  "NMLmbKjfMSqz-Iz2CooCl": {
+    "title": "net/http (standard)",
+    "description": "",
+    "links": []
+  },
+  "xM1uUCXNrJwfTgi9E75KV": {
+    "title": "gin",
+    "description": "",
+    "links": []
+  },
+  "1qhqEYf6wYf5sfXgTUnmi": {
+    "title": "echo",
+    "description": "",
+    "links": []
+  },
+  "5lJPsJwgy0_T7Xl6eQxuB": {
+    "title": "fiber",
+    "description": "",
+    "links": []
+  },
+  "p7yeYkbQKAjr2aA_eUno4": {
+    "title": "beego",
+    "description": "",
+    "links": []
+  },
+  "tBY6UB3gWZAxHPCFHoU_d": {
+    "title": "gRPC & Protocol Buffers",
+    "description": "",
+    "links": []
+  },
+  "VcHHuIZ4lGzTxOoTwxA3e": {
+    "title": "ORMs & DB Access",
+    "description": "",
+    "links": []
+  },
+  "cOj6klfBzTQQ8G75umLQZ": {
+    "title": "pgx",
+    "description": "",
+    "links": []
+  },
+  "fJdZIbAgOAB8nOEHQNsq6": {
+    "title": "GORM",
+    "description": "",
+    "links": []
+  },
+  "mGia5cJ7HFVXM0Fx5xhQE": {
+    "title": "Logging",
+    "description": "",
+    "links": []
+  },
+  "TR7N68_evDMu3qWHbGJcz": {
+    "title": "Zerolog",
+    "description": "",
+    "links": []
+  },
+  "4D8QsZVAUB9vGbVFgRHt4": {
+    "title": "Zap",
+    "description": "",
+    "links": []
+  },
+  "o2EYfm1WSd8Eq_ZcXYreo": {
+    "title": "Realtime Communication",
+    "description": "",
+    "links": []
+  },
+  "N0EG-7sU9lGFwgidXuPkV": {
+    "title": "Melody",
+    "description": "",
+    "links": []
+  },
+  "LOl-7BtdmYrBS0PTtHI1I": {
+    "title": "Centrifugo",
+    "description": "",
+    "links": []
+  },
+  "rW4QPWIS2TWzFY0Ljny2N": {
+    "title": "go run",
+    "description": "",
+    "links": []
+  },
+  "LXqEJwGA_0cVUbF6DVwBG": {
+    "title": "go build",
+    "description": "",
+    "links": []
+  },
+  "k35Ogbvr9yTdJPo4RV4tM": {
+    "title": "go install",
+    "description": "",
+    "links": []
+  },
+  "CPFiclXXVQCsbooA0iCEy": {
+    "title": "go fmt",
+    "description": "",
+    "links": []
+  },
+  "5hnaPrYSBzxEIxFeg5tCK": {
+    "title": "go mod",
+    "description": "",
+    "links": []
+  },
+  "EskFmwCwOmZHcVzedPOJI": {
+    "title": "go test",
+    "description": "",
+    "links": []
+  },
+  "bxXzXM0zUm1vux1DKOLyf": {
+    "title": "go clean",
+    "description": "",
+    "links": []
+  },
+  "SoD0P5k4aSVRN96XxR5on": {
+    "title": "go doc",
+    "description": "",
+    "links": []
+  },
+  "LnhQJVsEaS_gSijCUqAMq": {
+    "title": "go version",
+    "description": "",
+    "links": []
+  },
+  "TstTkc_-2RZMOqtSIklEM": {
+    "title": "go generate",
+    "description": "",
+    "links": []
+  },
+  "Jxt4HD2iA6lRXNRJIVCLs": {
+    "title": "Build Tags",
+    "description": "",
+    "links": []
+  },
+  "qoQ6_5MgTu3ur1mkEgqG5": {
+    "title": "go vet",
+    "description": "",
+    "links": []
+  },
+  "6RpfXYHnOGmM6pZ6ZBb29": {
+    "title": "goimports",
+    "description": "",
+    "links": []
+  },
+  "ksimJz7uvSh80ZIekSn_-": {
+    "title": "revive",
+    "description": "",
+    "links": []
+  },
+  "954ffF8CmXYX-L36Lfl44": {
+    "title": "staticcheck",
+    "description": "",
+    "links": []
+  },
+  "hgiNcGh3ggf8dBJ8C0HCL": {
+    "title": "golangci-lint",
+    "description": "",
+    "links": []
+  },
+  "K__satcG2ETNRFBpPqrLw": {
+    "title": "govulncheck",
+    "description": "",
+    "links": []
+  },
+  "Blz9cpgKhuqtY75oUQw6I": {
+    "title": "pprof",
+    "description": "",
+    "links": []
+  },
+  "RE2jfECHkWvy3ldDZL938": {
+    "title": "trace",
+    "description": "",
+    "links": []
+  },
+  "7aTYeCd915F3UHqb6j0Az": {
+    "title": "Race Detector",
+    "description": "",
+    "links": []
+  },
+  "mvcWcecHA_jyQY1txFgL_": {
+    "title": "Cross-compilation",
+    "description": "",
+    "links": []
+  },
+  "zCUmPIGVslLfECqfUgAr2": {
+    "title": "Building Executables",
+    "description": "",
+    "links": []
+  },
+  "_2JpTdzmXxszFCauJONCi": {
+    "title": "Memory Mgmt. in Depth",
+    "description": "",
+    "links": []
+  },
+  "ixoXVtRlrvTittqQq-Bgo": {
+    "title": "Escape Analysis",
+    "description": "",
+    "links": []
+  },
+  "GO50AoBOjO-EaK3s36jSS": {
+    "title": "Reflection",
+    "description": "",
+    "links": []
+  },
+  "tM-AAWqMJsYZ1i6DCfBeD": {
+    "title": "Unsafe Package",
+    "description": "",
+    "links": []
+  },
+  "zmBYvecc5zSoLCinH68gc": {
+    "title": "Build Constraints & Tags",
+    "description": "",
+    "links": []
+  },
+  "mxbs96wFJ5XGDoETA0fU_": {
+    "title": "CGO Basics",
+    "description": "",
+    "links": []
+  },
+  "xsjUeyxweN2GbcjknDjT8": {
+    "title": "Compiler & Linker Flags",
+    "description": "",
+    "links": []
+  },
+  "NlkrCAdUCJ7kU9meQJM5_": {
+    "title": "Plugins & Dynamic Loading",
+    "description": "",
+    "links": []
+  }
+}
