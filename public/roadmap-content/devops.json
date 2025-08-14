@@ -2178,32 +2178,6 @@
       }
     ]
   },
-  "-pGF3soruWWxwE4LxE5Vk": {
-    "title": "Travis CI",
-    "description": "Travis CI is a cloud-based continuous integration (CI) service that automatically builds and tests code changes in GitHub repositories. It helps streamline the software development process by automatically running tests and building applications whenever code is pushed or a pull request is made. Travis CI supports a variety of programming languages and provides integration with other tools and services, offering features like build matrix configurations, deployment pipelines, and notifications. Its ease of setup and integration with GitHub makes it a popular choice for open-source and private projects looking to implement CI/CD practices.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Travis CI Documentation",
-        "url": "https://docs.travis-ci.com/",
-        "type": "article"
-      },
-      {
-        "title": "Travis CI Tutorial",
-        "url": "https://docs.travis-ci.com/user/tutorial/",
-        "type": "article"
-      },
-      {
-        "title": "Explore top posts about CI/CD",
-        "url": "https://app.daily.dev/tags/cicd?ref=roadmapsh",
-        "type": "article"
-      },
-      {
-        "title": "Travis CI Complete Tutorial for DevOps Engineers",
-        "url": "https://www.youtube.com/watch?v=xLWDOLhTH38",
-        "type": "video"
-      }
-    ]
-  },
   "1-JneOQeGhox-CKrdiquq": {
     "title": "Circle CI",
     "description": "CircleCI is a popular continuous integration and continuous delivery (CI/CD) platform that automates the build, test, and deployment processes of software projects. It supports a wide range of programming languages and integrates with various version control systems, primarily GitHub and Bitbucket. CircleCI uses a YAML configuration file to define pipelines, allowing developers to specify complex workflows, parallel job execution, and custom environments. It offers features like caching, artifact storage, and Docker layer caching to speed up builds. With its cloud-based and self-hosted options, CircleCI provides scalable solutions for projects of all sizes, helping teams improve code quality, accelerate release cycles, and streamline their development workflows.\n\nVisit the following resources to learn more:",
@@ -2225,26 +2199,10 @@
       }
     ]
   },
-  "TsXFx1wWikVBVoFUUDAMx": {
-    "title": "Drone",
-    "description": "Drone is an open-source continuous integration (CI) platform built on container technology. It automates building, testing, and deploying code using a simple, YAML-based pipeline configuration stored alongside the source code. Drone executes each step of the CI/CD process in isolated Docker containers, ensuring consistency and reproducibility. It supports multiple version control systems, offers parallel execution of pipeline steps, and provides plugins for integrating with various tools and services. Drone's lightweight, scalable architecture makes it suitable for projects of all sizes, from small teams to large enterprises. Its focus on simplicity and containerization aligns well with modern DevOps practices and microservices architectures.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Drone",
-        "url": "https://www.drone.io/",
-        "type": "article"
-      },
-      {
-        "title": "Drone Documentation",
-        "url": "https://docs.drone.io/",
-        "type": "article"
-      },
-      {
-        "title": "Drone CI Quickstart",
-        "url": "https://www.youtube.com/watch?v=Qf8EHRzAgHQ",
-        "type": "video"
-      }
-    ]
+  "octopus-deploy@TsXFx1wWikVBVoFUUDAMx.md": {
+    "title": "Octopus Deploy",
+    "description": "",
+    "links": []
   },
   "L000AbzF3oLcn4B1eUIYX": {
     "title": "TeamCity",
