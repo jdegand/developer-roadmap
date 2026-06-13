@@ -4963,41 +4963,6 @@
       }
     },
     {
-      "id": "rgPUcSKxG9DvXicLfC2Ay",
-      "type": "subtopic",
-      "position": {
-        "x": -78.13327447982533,
-        "y": 1731.43042937083
-      },
-      "selected": false,
-      "data": {
-        "label": "Elf",
-        "style": {
-          "fontSize": 17,
-          "justifyContent": "flex-start",
-          "textAlign": "center"
-        }
-      },
-      "zIndex": 999,
-      "width": 71,
-      "height": 49,
-      "style": {
-        "width": 71,
-        "height": 49
-      },
-      "positionAbsolute": {
-        "x": -78.13327447982533,
-        "y": 1731.43042937083
-      },
-      "selectable": true,
-      "focusable": true,
-      "dragging": false,
-      "measured": {
-        "width": 71,
-        "height": 49
-      }
-    },
-    {
       "id": "m4WBnx_9h01Jl6Q1sxi4Y",
       "type": "topic",
       "position": {
