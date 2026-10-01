@@ -4,6 +4,5 @@ HTML isn't picky about capitalization. You can write tags and attributes using u
 
 Visit the following resources to learn more:
 
-- [@article@HTML Style Guide - Capitalization](https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5/HTML5_notes)
 - [@article@HTML Case Sensitivity Explained](https://www.w3schools.com/html/html5_syntax.asp)
 - [@article@What is Case Sensitivity in HTML?](https://www.educative.io/answers/what-is-case-sensitivity-in-html)

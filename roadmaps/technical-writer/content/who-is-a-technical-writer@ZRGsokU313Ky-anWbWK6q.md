@@ -4,6 +4,6 @@ A technical writer produces documentation that helps users understand and work w
 
 Visit the following resources to learn more:
 
-- [@article@What Is a Technical Writer?](https://boffin.education/introduction-to-technical-writing/#2-what-is-a-technical-writer)
-- [@article@A Day in the Life of a Technical Writer](https://boffin.education/technical-writing-roles-and-responsibilities/#4-a-day-in-the-life-of-a-technical-writer)
-- [@article@Glossary of Technical Writing Terms: "Technical Writer"](https://boffin.education/glossary-of-technical-writing-terms/#technical-writer)
+- [@article@What Is a Technical Writer?](https://web.archive.org/web/20250114032850/https://boffin.education/introduction-to-technical-writing/#2-what-is-a-technical-writer)
+- [@article@A Day in the Life of a Technical Writer](https://web.archive.org/web/20250114022932/https://boffin.education/technical-writing-roles-and-responsibilities/#4-a-day-in-the-life-of-a-technical-writer)
+- [@article@Glossary of Technical Writing Terms: "Technical Writer"](https://web.archive.org/web/20250214134718/https://boffin.education/glossary-of-technical-writing-terms/#technical-writer)

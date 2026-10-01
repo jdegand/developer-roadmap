@@ -4,6 +4,6 @@ Textual tags in HTML are used to structure and format text content on a webpage.
 
 Visit the following resources to learn more:
 
-- [@article@HTML Text Formatting Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/text-level_semantics)
+- [@article@HTML Text Formatting Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [@article@HTML Text Tags Overview](https://www.w3schools.com/html/html_formatting.asp)
 - [@article@Semantic HTML for Text](https://www.freecodecamp.org/news/semantic-html5-elements/)

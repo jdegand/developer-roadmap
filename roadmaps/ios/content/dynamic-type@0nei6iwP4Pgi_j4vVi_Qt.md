@@ -4,5 +4,5 @@ The Dynamic Type feature allows users to choose the size of textual content disp
 
 Visit the following resources to learn more:
 
-- [@official@Dynamic Type](https://developer.apple.com/documentation/uikit/uifont/scaling_fonts_automatically/)
+- [@official@Dynamic Type](https://web.archive.org/web/20241219200814/https://developer.apple.com/documentation/uikit/uifont/scaling_fonts_automatically/)
 - [@official@WWDC24: Get started with Dynamic Type](https://www.youtube.com/watch?v=ZqDZjW9TpFw)
