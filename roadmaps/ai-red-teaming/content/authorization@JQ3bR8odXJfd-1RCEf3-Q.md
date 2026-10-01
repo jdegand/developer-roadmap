@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@What is Authentication vs Authorization?](https://auth0.com/intro-to-iam/authentication-vs-authorization)
 - [@article@Identity and access management (IAM) fundamental concepts](https://learn.microsoft.com/en-us/entra/fundamentals/identity-fundamental-concepts)
-- [@article@OWASP API Security Project](https://owasp.org/www-project-api-security/)
+- [@article@OWASP API Security Project](https://owasp.org/API-Security/)

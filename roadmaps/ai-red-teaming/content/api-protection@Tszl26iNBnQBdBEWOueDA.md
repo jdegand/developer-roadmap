@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Securing APIs with AI for Advanced Threat Protection](https://adevait.com/artificial-intelligence/securing-apis-with-ai)
 - [@article@Securing Machine Learning APIs (IBM)](https://developer.ibm.com/articles/se-securing-machine-learning-apis/)
-- [@article@OWASP API Security Project (Top 10 2023)](https://owasp.org/www-project-api-security/)
+- [@article@OWASP API Security Project (Top 10 2023)](https://owasp.org/API-Security/)

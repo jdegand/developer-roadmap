@@ -5,5 +5,5 @@ AI Red Teamers test if vulnerabilities in the AI system or its interfaces allow 
 Visit the following resources to learn more:
 
 - [@article@Defending Model Files from Unauthorized Access](https://developer.nvidia.com/blog/defending-ai-model-files-from-unauthorized-access-with-canaries/)
-- [@article@OWASP API Security Project](https://owasp.org/www-project-api-security/)
+- [@article@OWASP API Security Project](https://owasp.org/API-Security/)
 - [@article@Detecting Unauthorized Usage](https://www.unr.edu/digital-learning/instructional-strategies/understanding-and-integrating-generative-ai-in-teaching/how-can-i-detect-unauthorized-ai-usage)
