@@ -4,6 +4,6 @@ UDP, or User Datagram Protocol, is a connectionless protocol that sends data wit
 
 Visit the following resources to learn more:
 
-- [@article@Networking for game programming](http://gafferongames.com/networking-for-game-programmers/udp-vs-tcp/)
+- [@article@Networking for game programming](https://gafferongames.com/post/udp_vs_tcp/)
 - [@article@Key differences between TCP and UDP protocols](http://www.cyberciti.biz/faq/key-differences-between-tcp-and-udp-protocols/)
 - [@article@Difference between TCP and UDP](http://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp)

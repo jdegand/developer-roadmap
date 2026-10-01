@@ -4,5 +4,5 @@ Transaction Script is a pattern used in enterprise application development that 
 
 Visit the following resources to learn more:
 
-- [@article@Transaction Script Pattern](https://gunnarpeipman.com/transaction-script-pattern/)
+- [@article@Transaction Script Pattern](https://martinfowler.com/eaaCatalog/transactionScript.html)
 - [@video@Tutorial - Transaction Script Design Pattern](https://www.youtube.com/watch?v=fnsU9cqcY3I)

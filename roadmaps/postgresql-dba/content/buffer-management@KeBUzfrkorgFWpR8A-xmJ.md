@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@pg_buffercache](https://www.postgresql.org/docs/current/pgbuffercache.html)
 - [@official@Write Ahead Logging](https://www.postgresql.org/docs/current/wal-intro.html)
-- [@article@Buffer Manager](https://dev.to/vkt1271/summary-of-chapter-8-buffer-manager-from-the-book-the-internals-of-postgresql-part-2-4f6o)
+- [@article@Buffer Manager](https://www.interdb.jp/pg/pgsql08.html)
