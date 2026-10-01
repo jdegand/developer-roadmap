@@ -5,3 +5,5 @@ Fine-tuning takes a pretrained foundation model and adapts it to a specific doma
 Visit the following resources to learn more:
 
 - [@article@Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042)
+- [@article@What is Fine-Tuning?](https://www.ibm.com/think/topics/fine-tuning)
+- [@article@How I Fine-Tuned Granite-Vision 2B to Beat a 90B Model](https://towardsdatascience.com/how-i-fine-tuned-granite-vision-2b-to-beat-a-90b-model-insights-and-lessons-learned/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

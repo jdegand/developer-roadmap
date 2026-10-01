@@ -8,3 +8,5 @@ Visit the following resources to learn more:
 - [@article@High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
 - [@article@SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/abs/2307.01952)
 - [@article@Scalable Diffusion Models with Transformers (DiT)](https://arxiv.org/abs/2212.09748)
+- [@article@How DALL-E 2 Actually Works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
+- [@video@How AI Image Generators Work (Stable Diffusion / DALL-E)](https://www.youtube.com/watch?v=1CIpzeNxIhU)

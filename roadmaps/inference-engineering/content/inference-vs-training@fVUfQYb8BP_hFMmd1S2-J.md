@@ -5,3 +5,5 @@ Training is the process of learning model weights from data. Inference is servin
 Visit the following resources to learn more:
 
 - [@article@Language Models Are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- [@article@Inference vs Training](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+- [@article@What is Machine Learning Inference?](https://hazelcast.com/glossary/machine-learning-inference/)

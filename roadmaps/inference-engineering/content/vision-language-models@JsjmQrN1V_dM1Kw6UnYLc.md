@@ -8,3 +8,4 @@ Visit the following resources to learn more:
 - [@article@Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
 - [@article@Segment Anything](https://arxiv.org/abs/2304.02643)
 - [@article@SpecVLM: Fast Speculative Decoding in Vision-Language Models](https://arxiv.org/abs/2509.11815)
+- [@course@A Multimodal World - Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/a_multimodal_world)

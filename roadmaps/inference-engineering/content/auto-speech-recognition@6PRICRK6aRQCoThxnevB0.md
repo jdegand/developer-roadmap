@@ -5,4 +5,6 @@ ASR models like Whisper take audio input and produce text transcripts. Whisper i
 Visit the following resources to learn more:
 
 - [@official@OpenAI Whisper Models on Hugging Face](https://huggingface.co/openai)
+- [@official@OpenAI Whisper](https://openai.com/index/whisper/)
+- [@opensource@openai/whisper](https://github.com/openai/whisper)
 - [@article@Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356)

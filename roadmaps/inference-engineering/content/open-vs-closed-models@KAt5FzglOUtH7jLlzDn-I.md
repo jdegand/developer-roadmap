@@ -4,4 +4,6 @@ Closed models are accessed exclusively through a vendor API; the weights are nev
 
 Visit the following resources to learn more:
 
+- [@article@Open-Source vs. Closed LLMs: A Guide](https://hatchworks.com/blog/gen-ai/open-source-vs-closed-llms-guide/)
+- [@video@Open Source vs Closed AI: LLMs, Agents & the AI Stack Explained](https://www.youtube.com/watch?v=_QfxGZGITGw)
 - [@book@AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)

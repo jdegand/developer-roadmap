@@ -4,5 +4,7 @@ BERT-style encoder-only models are the traditional architecture for text embeddi
 
 Visit the following resources to learn more:
 
+- [@official@SentenceTransformers Documentation](https://sbert.net/)
+- [@official@Using Sentence Transformers at Hugging Face](https://huggingface.co/docs/hub/sentence-transformers)
 - [@article@BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [@article@Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)

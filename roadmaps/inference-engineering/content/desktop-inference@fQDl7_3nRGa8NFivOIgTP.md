@@ -4,4 +4,6 @@ Desktop inference runs on consumer hardware, primarily Apple M-series unified me
 
 Visit the following resources to learn more:
 
+- [@official@Ollama](https://ollama.com/)
+- [@official@LM Studio](https://lmstudio.ai/)
 - [@opensource@ComfyUI](https://github.com/comfyanonymous/ComfyUI)

@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Hugging Face Diffusers](https://huggingface.co/docs/diffusers/index)
 - [@official@Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
+- [@course@Hugging Face Course](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)

@@ -6,3 +6,6 @@ Visit the following resources to learn more:
 
 - [@article@Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889)
 - [@article@RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
+- [@article@What is Long Context and Why Does it Matter for AI?](https://cloud.google.com/transform/the-prompt-what-are-long-context-windows-and-why-do-they-matter)
+- [@article@Long-Context LLM Infrastructure: Building Systems for Million-Token Windows](https://introl.com/blog/long-context-llm-infrastructure-million-token-windows-guide)
+- [@video@Deep Dive into Long Context](https://www.youtube.com/watch?v=NHMJ9mqKeMQ)
