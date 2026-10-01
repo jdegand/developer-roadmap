@@ -7,5 +7,5 @@ Visit the following resources to learn more:
 - [@article@What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 - [@article@Mess with DNS - DNS Playground](https://messwithdns.net/)
 - [@article@How DNS works (comic)](https://howdns.works/)
-- [@video@DNS and How does it Work?](](https://www.youtube.com/watch?v=Wj0od2ag5sk)
+- [@video@DNS and How does it Work?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
 - [@feed@Explore top posts about DNS](https://app.daily.dev/tags/dns?ref=roadmapsh)
