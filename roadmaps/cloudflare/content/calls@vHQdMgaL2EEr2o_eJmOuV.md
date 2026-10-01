@@ -5,4 +5,4 @@ Cloudflare Calls is a platform for building real-time audio and video applicatio
 Visit the following resources to learn more:
 
 - [@official@Cloudflare Calls](https://developers.cloudflare.com/calls/)
-- [@official@Introduction · Cloudflare Calls](https://developers.cloudflare.com/calls/introduction/)
+- [@official@Introduction · Cloudflare Calls](https://developers.cloudflare.com/calls/)

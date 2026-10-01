@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@C# official website?](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [@video@C# Full Course - Learn C# 10 and .NET 6 in 7 hours](https://www.youtube.com/watch?v=q_F4PyW8GTg)
-- [@feed@Explore top posts about C#](https://app.daily.dev/tags/csharp?ref=roadmapsh)

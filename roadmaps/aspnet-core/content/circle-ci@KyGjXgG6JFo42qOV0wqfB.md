@@ -5,5 +5,5 @@ CircleCI is a cloud-based continuous integration and continuous delivery platfor
 Visit the following resources to learn more:
 
 - [@official@Building and testing an ASP.NET apps with CircleCI](https://circleci.com/blog/building-and-testing-an-asp-net-core-application/)
-- [@article@How to Setup CircleCI for ASP.NET project](https://discuss.circleci.com/t/setup-circleci-for-asp-net-project/33796s)
+- [@article@How to Setup CircleCI for ASP.NET project](https://discuss.circleci.com/t/setup-circleci-for-asp-net-project/33796)
 - [@feed@Explore top posts about CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)

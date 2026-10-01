@@ -5,5 +5,5 @@ Build flags control compilation and linking. Common flags include `-ldflags` for
 Visit the following resources to learn more:
 
 - [@official@Flag Package](https://pkg.go.dev/flag)
-- [@article@Leveraging Compiler Optimization Flags](https://goperf.dev/01-common-patterns/comp-flags/o)
+- [@article@Leveraging Compiler Optimization Flags](https://goperf.dev/01-common-patterns/comp-flags/)
 - [@article@Compiler Optimization Flags](https://diginode.in/go/compiler-optimization-flags/)

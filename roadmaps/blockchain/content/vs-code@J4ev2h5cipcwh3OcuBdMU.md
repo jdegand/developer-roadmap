@@ -4,7 +4,7 @@ VS Code (Visual Studio Code) is a free and popular source code editor developed 
 
 Visit the following resources to learn more:
 
-- [@official@Visual Studio Code](https://code.visualstudio.com/o)
+- [@official@Visual Studio Code](https://code.visualstudio.com/)
 - [@official@Docs - Visual Studio Code](https://code.visualstudio.com/docs)
 - [@article@VSCode Basics](https://www.youtube.com/watch?v=B-s71n0dHUk)
 - [@article@VSCode in 100 Seconds](https://www.youtube.com/watch?v=KMxo3T_MTvY)

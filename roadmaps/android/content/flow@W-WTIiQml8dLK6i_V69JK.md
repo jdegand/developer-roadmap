@@ -5,4 +5,4 @@
 Visit the following resources to learn more:
 
 - [@official@Flow](https://kotlinlang.org/docs/flow.html)
-- [@official@Flow: Coroutines](https://kotlinlang.org/docs/flow-coroutines.html)
+- [@official@Flow: Coroutines](https://kotlinlang.org/docs/flow.html)

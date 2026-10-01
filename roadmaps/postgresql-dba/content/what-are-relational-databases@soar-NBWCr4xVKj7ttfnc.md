@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Relational Databases](https://www.ibm.com/cloud/learn/relational-databases)
 - [@article@Intro To Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [@article@Relational Databases: Concept and History](https://www.ibm.com/topics/relational-databases)
-- [@feed@Explore top posts about Relational Databases](https://app.daily.dev/tags/relational-databases?ref=roadmapsh)

@@ -5,4 +5,4 @@ Infura provides a suite of tools and infrastructure that allows developers to ea
 Visit the following resources to learn more:
 
 - [@official@Infura](https://infura.io/)
-- [@official@Infura Documentation](https://docs.infura.io/api)
+- [@official@Infura Documentation](https://docs.infura.io/)

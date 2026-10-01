@@ -4,7 +4,7 @@ Filtering in Pandas selects rows that meet specified conditions. Boolean masks, 
 
 Visit the following resources to learn more:
 
-- [@official@pandas.DataFrame.query](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.query.htmlme.query)
+- [@official@pandas.DataFrame.query](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.query.html)
 - [@official@How do I select a subset of a DataFrame?](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html)
 - [@article@10 Elegant Ways to Filter Pandas DataFrames](https://towardsdatascience.com/stop-writing-messy-boolean-masks-10-elegant-ways-to-filter-pandas-dataframes/)
 - [@video@Filtering Columns and Rows in Pandas](https://www.youtube.com/watch?v=kB7FV-ijdqE)
