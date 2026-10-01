@@ -4,6 +4,6 @@ The Swift Package Manager is a tool for managing dependencies in your Swift proj
 
 Visit the following resources to learn more:
 
-- [@official@Swift Package Manager](https://docs.swift.org/swiftpm/documentation/packagemanagerdocs/)
+- [@official@Swift Package Manager](https://www.swift.org/documentation/package-manager/)
 - [@opensource@swift-package-manager](https://github.com/swiftlang/swift-package-manager)
 - [@article@Mastering Swift Package Manager: A Comprehensive Guide](https://medium.com/@dipenapanchasara/mastering-swift-package-manager-a-comprehensive-guide-5e06f29d812d)

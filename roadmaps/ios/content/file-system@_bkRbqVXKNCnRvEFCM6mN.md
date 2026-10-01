@@ -5,5 +5,5 @@ The iOS file system sandboxes each app's data into private directories. The Docu
 Visit the following resources to learn more:
 
 - [@official@File System Basics](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html)
-- [@official@About File System](https://developer.apple.com/documentation/foundation/file_system/about_apple_file_system/)
+- [@official@About File System](https://developer.apple.com/documentation/foundation/file-system)
 - [@official@FileManager](https://developer.apple.com/documentation/foundation/filemanager)

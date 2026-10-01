@@ -5,4 +5,4 @@ Service Bindings allow Cloudflare Workers to seamlessly integrate with other Clo
 Visit the following resources to learn more:
 
 - [@official@Service Bindings - Runtime APIs](https://developers.cloudflare.com/workers/runtime-apis/bindings/service-bindings/)
-- [@official@Service Bindings · Cloudflare](https://developers.cloudflare.com/workers/platform/service-bindings/)
+- [@official@Service Bindings · Cloudflare](https://developers.cloudflare.com/workers/runtime-apis/bindings/service-bindings/)

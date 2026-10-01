@@ -4,7 +4,7 @@ The Swift Package Manager is a tool for managing the distribution of Swift code.
 
 Visit the following resources to learn more:
 
-- [@official@Creating a Library Package](https://docs.swift.org/swiftpm/documentation/packagemanagerdocs/gettingstarted#Creating-a-Library-Package)
+- [@official@Creating a Library Package](https://www.swift.org/documentation/package-manager/)
 - [@official@Creating a standalone Swift package with Xcode](https://developer.apple.com/documentation/xcode/creating-a-standalone-swift-package-with-xcode)
 - [@article@Swift Package Manager framework creation in Xcode](https://www.avanderlee.com/swift/creating-swift-package-manager-framework/)
 - [@video@Creating and Publishing Swift Packages (Swift Package Manager)](https://www.youtube.com/watch?v=4Rxuc4BcW8o)

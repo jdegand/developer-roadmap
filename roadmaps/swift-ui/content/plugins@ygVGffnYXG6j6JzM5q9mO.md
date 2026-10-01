@@ -4,7 +4,7 @@ Swift Package Manager plugins allow you to extend the build process of your Swif
 
 Visit the following resources to learn more:
 
-- [@official@Plugins](https://docs.swift.org/swiftpm/documentation/packagemanagerdocs/plugins/)
+- [@official@Plugins](https://www.swift.org/documentation/package-manager/)
 - [@article@Meet Swift Package plugins](https://wwdcnotes.com/documentation/wwdcnotes/wwdc22-110359-meet-swift-package-plugins/)
 - [@video@WWDC22: Create Swift Package plugins | Apple](https://www.youtube.com/watch?v=JiyZmB6aX30)
 - [@video@WWDC22: Meet Swift Package plugins | Apple](https://www.youtube.com/watch?v=Oe5JPnVNhRo)
