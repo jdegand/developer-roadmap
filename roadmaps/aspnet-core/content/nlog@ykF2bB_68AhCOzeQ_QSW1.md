@@ -4,6 +4,5 @@ NLog is a flexible and free logging platform for various .NET platforms, includi
 
 Visit the following resources to learn more:
 
-- [@article@Logging with NLog in ASP.NET](https://codewithmukesh.com/blog/logging-with-nlog-in-aspnet-core/)
 - [@article@Introduction To NLog With ASP.NET Core](https://www.c-sharpcorner.com/article/introduction-to-nlog-with-asp-net-core2/)
 - [@video@Tutorial of Nlog with ASP.NET](https://www.youtube.com/watch?v=PnlxRmHg0lU)

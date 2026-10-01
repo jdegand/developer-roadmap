@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@By-name Parameters | Tour of Scala | Scala Documentation](https://docs.scala-lang.org/tour/by-name-parameters.html)
 - [@article@How to Use By-Name Parameters in Scala | alvinalexander.com](https://alvinalexander.com/scala/fp-book/how-to-use-by-name-parameters-scala-functions/)
-- [@article@By-Name Parameters in Scala](https://tpolecat.github.io/2014/06/26/call-by-name.html)

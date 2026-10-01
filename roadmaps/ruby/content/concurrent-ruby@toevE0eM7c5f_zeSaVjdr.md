@@ -4,5 +4,5 @@ Concurrent Ruby is a library that provides tools and abstractions for concurrent
 
 Visit the following resources to learn more:
 
-- [@official@Concurrent Ruby](https://ruby-concurrency.github.io/concurrent-ruby/1.3.6/index.html)
+- [@official@Concurrent Ruby](https://ruby-concurrency.github.io/concurrent-ruby/)
 - [@opensource@concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)

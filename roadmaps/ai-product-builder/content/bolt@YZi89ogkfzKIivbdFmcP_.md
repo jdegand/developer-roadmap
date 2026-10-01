@@ -4,6 +4,6 @@ Bolt generates full-stack applications from a prompt and produces clean, readabl
 
 Visit the following resources to learn more:
 
-- [@official@Getting Started with Bolt](https://support.bolt.new/building/quickstart)
+- [@official@Getting Started with Bolt](https://bolt.new/docs)
 - [@article@Bolt.new Review 2025: The Good, Bad, and Surprising Findings for Developers](https://trickle.so/blog/bolt-new-review)
 - [@video@Bolt.New AI Tutorial for Beginners: Create an App in Under 20 Minutes!](https://www.youtube.com/watch?v=5zfOitaKfmM)

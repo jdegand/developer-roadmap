@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Log in to your account](https://code.claude.com/docs/en/quickstart#step-2-log-in-to-your-account)
 - [@official@Subscription & Pricing](https://claude.com/pricing)
-- [@official@Choosing a Claude plan](https://support.claude.com/en/articles/11049762-choosing-a-claude-plan)
 - [@article@Claude Pricing Explained: Subscription Plans & API Costs](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)
