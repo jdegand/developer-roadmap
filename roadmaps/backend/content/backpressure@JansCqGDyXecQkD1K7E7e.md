@@ -4,7 +4,6 @@ Backpressure is a flow control mechanism where receivers signal their capacity t
 
 Visit the following resources to learn more:
 
-- [@article@Awesome Architecture: Backpressure](https://awesome-architecture.com/back-pressure/)
 - [@article@Backpressure explained — the flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
 - [@article@Handling Backpressure in Node.js Streams](https://nodejs.org/learn/modules/backpressuring-in-streams)
 - [@video@What is Back Pressure](https://www.youtube.com/watch?v=viTGm_cV7lE)

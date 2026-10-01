@@ -4,4 +4,4 @@ Stencil shadows, also called shadow volumes, are a technique where the shadow bo
 
 Visit the following resources to learn more:
 
-- [@article@Stencil Shadows Implementation](https://devforum.roblox.com/t/stencil-shadows-implementation/2079287)
+- [@article@The Mechanics of Robust Stencil Shadows](https://www.gamedeveloper.com/programming/the-mechanics-of-robust-stencil-shadows)
